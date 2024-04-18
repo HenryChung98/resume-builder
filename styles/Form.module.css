@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    gap: 30px;
+    background-color: #ebebeb;
+}
+.personalDetail{
+
+    padding: 30px;
+    border-radius: 10px;
+    margin: 30px;
+}
+
+.personalDetail td{
+    padding: 5px;
+    border-radius: 10px;
+
+}
+
+.personalDetail td input{
+    border-radius: 5px;
+    border: none;
+    height: 25px;
+    width: 200px;
+    font-size: 15px;
+}
